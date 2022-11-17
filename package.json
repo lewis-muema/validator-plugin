@@ -1,0 +1,19 @@
+{
+  "name": "@sendyit/validation",
+  "version": "1.0.3",
+  "description": "Validates input data on sendy frontend apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/lewism/sendy-validation.git"
+  },
+  "author": "Lewis Muema",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/lewism/sendy-validation/issues"
+  },
+  "homepage": "https://gitlab.com/lewism/sendy-validation#readme"
+}
